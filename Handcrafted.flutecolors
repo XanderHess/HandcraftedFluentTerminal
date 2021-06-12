@@ -1,0 +1,31 @@
+{
+  "EncodedImage": "",
+  "Name": "Handcrafted",
+  "Author": "Hand Engineering / Xander Hess",
+  "Colors": {
+    "Foreground": "#D1C4B6",
+    "Background": "#101D27",
+    "Cursor": "#65C032",
+    "CursorAccent": "#000000",
+    "Selection": "rgba(37, 50, 61, 0.65)",
+    "SelectionForeground": null,
+    "SelectionBackground": null,
+    "Black": "#000000",
+    "Red": "#FD8877",
+    "Green": "#65C032",
+    "Yellow": "#B3AE50",
+    "Blue": "#9AA5FF",
+    "Magenta": "#F585CA",
+    "Cyan": "#389BAC",
+    "White": "#D1C4B6",
+    "BrightBlack": "#4D4D4D",
+    "BrightRed": "#FF9D8B",
+    "BrightGreen": "#88E254",
+    "BrightYellow": "#D5CF6F",
+    "BrightBlue": "#B8C2FF",
+    "BrightMagenta": "#FF9EE3",
+    "BrightCyan": "#5EBBCD",
+    "BrightWhite": "#EEE0D1"
+  },
+  "BackgroundImage": null
+}
